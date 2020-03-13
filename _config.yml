@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme : sonogong/kiko-now
+#remote_theme : sonogong/kiko-now
 
 # Name of your site (displayed in the header)
 name: Sonogong
